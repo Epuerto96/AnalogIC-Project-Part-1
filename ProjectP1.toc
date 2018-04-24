@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Objective}{2}{section.1}
+\contentsline {section}{\numberline {2}Custom MOSFETS}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Problems Encountered}{2}{subsection.2.1}
+\contentsline {section}{\numberline {3}Common-Source Amplifier with Ideal Current Source}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Region of Operation}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Small-Signal Model}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Manipulating $I_d$ for a gain of 100}{4}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Simulation Verification}{5}{subsection.3.4}
+\contentsline {section}{\numberline {4}Common-Source Amplifier with Current Source load}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Calculating the new gain}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Finding the Resistor Value}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Simulation Verification}{7}{subsection.4.3}
+\contentsline {section}{\numberline {5}Differential Amplifier}{8}{section.5}
+\contentsline {subsection}{\numberline {5.1}Circuit Design}{8}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Analysis}{9}{subsection.5.2}
+\contentsline {section}{\numberline {6}Conclusion}{9}{section.6}

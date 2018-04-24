@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Objective}{}% 1
+\BOOKMARK [1][-]{section.2}{Custom MOSFETS}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Problems Encountered}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Common-Source Amplifier with Ideal Current Source}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Region of Operation}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Small-Signal Model}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Manipulating Id for a gain of 100}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.4}{Simulation Verification}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Common-Source Amplifier with Current Source load}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Calculating the new gain}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Finding the Resistor Value}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Simulation Verification}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Differential Amplifier}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Circuit Design}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Analysis}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 16
